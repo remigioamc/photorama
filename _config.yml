@@ -2,7 +2,7 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "http://wedding.remig.io/"
+url: "https://wedding.remig.io/"
 baseurl: "/"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://wedding.remig.io/gallery/"  
-  - JOURNAL: "http://wedding.remig.io/journal/"
-  - ABOUT: "http://wedding.remig.io/about/"
+  - GALLERY: "https://wedding.remig.io/gallery/"  
+  - JOURNAL: "https://wedding.remig.io/journal/"
+  - ABOUT: "https://wedding.remig.io/about/"
 
 # All translation keys
 translations:
